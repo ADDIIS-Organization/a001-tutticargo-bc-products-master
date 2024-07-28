@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos y directorios específicos del sistema
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración del editor
+.idea/
+.vscode/
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Archivos de logs
+*.log
+
+# Archivos y directorios específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter Notebooks
+.ipynb_checkpoints/
